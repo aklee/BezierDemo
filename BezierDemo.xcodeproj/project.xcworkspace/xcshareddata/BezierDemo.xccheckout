@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3B8EFBC3-7C2E-40A7-8D46-4A59F8659C5B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BezierDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>272C69CFC3EBA0856BF12A5216C79DD00B42AF57</key>
+		<string>https://github.com/aklee/BezierDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BezierDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>272C69CFC3EBA0856BF12A5216C79DD00B42AF57</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/aklee/BezierDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>272C69CFC3EBA0856BF12A5216C79DD00B42AF57</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>272C69CFC3EBA0856BF12A5216C79DD00B42AF57</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BezierDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
